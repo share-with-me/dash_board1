@@ -1,3 +1,4 @@
+This example makes use of flask to make a python server to run the data queried from mongoDB.<br/>
 1. Install the dependencies using<br/>
 	pip install -r requirements.txt <br/>
 2. Download MongoDB. The link is <a href = "https://www.mongodb.org/downloads#production">this</a>.<br/>
