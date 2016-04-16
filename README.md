@@ -10,4 +10,7 @@ This example makes use of flask to make a python server to run the data queried 
 6. Open a terminal and navigate to current directory.
 7. Run the app by:<br/>
 	python app.py<br/>
-8. In your browser, type 0.0.0.0:8080 
+8. In your browser, type 0.0.0.0:8080 <br/><br/>
+
+This repo also contains Dashboard3:<br/>
+It makes use of dc.js and crossfilter.js to visualise the json data. To run it, simply download the files and run the visualise.html file. It does not require any server running.
