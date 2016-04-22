@@ -12,6 +12,6 @@ This example makes use of flask to make a python server to run the data queried 
 	python app.py<br/>
 8. In your browser, type 0.0.0.0:8080 <br/><br/>
 
-This repo also contains Dashboard3:<br/>
-It makes use of dc.js and crossfilter.js to visualise the json data. To run it, simply download the files and run the visualise.html file. It does not require any server running. A video of the demonstration for dashboard3 can be found <a href = "https://drive.google.com/open?id=0BwrSYlOsMCyWMGxRYllfeEgxWDQ">here </a>.<br/>
-In addition, the directory 'dashboard4' consists of yet another dashboard made using dc.js, d3.js and crossfilter.js. To run it, simply download the files and click on visualise.html and view the dashboard in your browser. A video of demonstration of this dashboard can be found at <a href = "https://drive.google.com/open?id=0BwrSYlOsMCyWS0JxcFhOcFNsazQ"> here. </a><br/>
+This repo also contains <b>Dashboard3:</b><br/>
+It makes use of dc.js and crossfilter.js to visualise the json data. To run it, simply download the files and run the visualise.html file. It does not require any server running. A video of the demonstration for dashboard3 can be found <a href = "https://drive.google.com/open?id=0BwrSYlOsMCyWMGxRYllfeEgxWDQ">here </a>.<br/><br/>
+In addition, the directory <b>'dashboard4'</b> consists of yet another dashboard made using dc.js, d3.js and crossfilter.js. To run it, simply download the files and click on visualise.html and view the dashboard in your browser. A video of demonstration of this dashboard can be found at <a href = "https://drive.google.com/open?id=0BwrSYlOsMCyWS0JxcFhOcFNsazQ"> here. </a><br/>
